@@ -4,22 +4,22 @@ h2 {
     margin-bottom: 10px;
    }
    .h1-colorido {
-    background-color: rgb(248, 3, 3);
-    color: white;
+    background-color: rgb(14, 13, 13);
+    color: rgb(247, 7, 7);
    }
    .hex-colorido {
-    background-color: #f30404;
-    color: #ffffff;
+    background-color: #000000;
+    color: #fa0606;
    }
    .rgb-colorido {
-    background-color: rgb(245, 3, 3);
-    color: rgb(255, 255, 255);
+    background-color: rgb(8, 8, 8);
+    color: rgb(250, 7, 7);
    }
    .hsl-colorido {
-    background-color: hsl(0, 98%, 51%);
-    color: hsl(0, 0%, 100%);
+    background-color: hsl(0, 0%, 3%);
+    color: hsl(0, 98%, 51%);
    }
    .rgba-colorido {
-    background-color: rgba(247, 6, 6, 0.5);
-    color: white;
+    background-color: rgb(3, 3, 3);
+    color: rgb(248, 5, 5);
    }
