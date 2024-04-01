@@ -1,17 +1,17 @@
 .body{
     text-align: center;
-    background-color: #f75105;
+    background-color: #f5ed87;
 
 }
-   .hex-coloridohamburguer {
+   .hex-coloridopizzaria {
     background-color: rgb(248, 211, 3);
-    color: rgb(252, 4, 4);
+    color: rgb(4, 8, 252);
    }
-   .bodynetflix{
-    text-align: center;
-    background-color: #000000;
-   }
-   .hex-coloridoNetflix {
-    background-color: #000000;
-    color: #f80303;
-   }
+.sabores { 
+    color: white;
+}
+.vidarasa {
+    margin: 20px;
+    font-size: 18px;
+}
+   
